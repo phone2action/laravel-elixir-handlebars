@@ -17,9 +17,10 @@ elixir(function (mix) {
     // Handlebar templates 
     mix.templates([
         // Will search in 'resources/views/templates' 
-        // and compile to 'resources/js/templates.js'
         'templates/**/*.hbs' 
-    ]);
+        
+      //and compile where you want:
+    ],'resources/assets/js/templates.js');
 });
 ```
 
