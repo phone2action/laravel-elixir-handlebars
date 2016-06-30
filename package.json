@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-handlebars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds support for compiling handlebars templates to laravel elixir",
   "main": "index.js",
   "scripts": {
@@ -31,8 +31,8 @@
     "gulp-declare": "^0.3.0",
     "gulp-handlebars": "^4.0.0",
     "gulp-wrap": "^0.11.0",
-    "handlebars": "^3.0.2",
-    "laravel-elixir": "^0.18.7",
+    "handlebars": "^4.0.5",
+    "laravel-elixir": "^5.0.*",
     "underscore": "^1.8.3"
   }
 }
