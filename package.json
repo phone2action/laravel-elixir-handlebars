@@ -32,7 +32,7 @@
     "gulp-handlebars": "^4.0.0",
     "gulp-wrap": "^0.11.0",
     "handlebars": "^4.0.5",
-    "laravel-elixir": "^5.0.*",
+    "laravel-elixir": "^6.0.*",
     "underscore": "^1.8.3"
   }
 }
